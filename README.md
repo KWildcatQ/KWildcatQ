@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Kellen Quinn. 
-- 🔭 I’m currently working as an Integration Analyst. 
+- :computer: I’m currently working as an Integration Analyst. 
 - 🌱 I recently transitioned to Data Analytics after a career as a paralegal.
 - 👯 I’m looking to expand my professional IT social network. 
 - :incoming_envelope: How to reach me: Kellen.Quinn@gmail.com
