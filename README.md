@@ -1,5 +1,6 @@
 - 👋 Hi, I'm Kellen Quinn. 
-- :computer: I’m currently working as an Integration Analyst. 
+- :cactus: I'm from Arizona. 
+- :computer: I currently work as an Integration Analyst. 
 - 🌱 I recently transitioned to Data Analytics after a career as a paralegal.
 - :speech_balloon: I’m looking to expand my professional IT/Data Analytics social network. 
 - :incoming_envelope: How to reach me: Kellen.Quinn@gmail.com
