@@ -4,3 +4,4 @@
 - 🌱 I recently transitioned to Data Analytics after a career as a paralegal.
 - :speech_balloon: I’m looking to expand my professional IT/Data Analytics social network. 
 - :incoming_envelope: How to reach me: Kellen.Quinn@gmail.com
+- :incoming_envelope: Linkedin: https://www.linkedin.com/in/kellenquinn/
